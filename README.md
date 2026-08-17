@@ -1,5 +1,5 @@
 ## Hi there 👋
-masih proses buat dawg hehe
+masih proses buat profil dawg ditunggu ya
 <!--
 **NanDawg/NanDawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
