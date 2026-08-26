@@ -4,4 +4,8 @@
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NanDawg&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=NanDawg&langs_count=4&theme=github_dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NanDawg&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=NanDawg&include_all_commits=true&theme=github_dark)
+
 <br/><br/>
