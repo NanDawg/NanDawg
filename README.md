@@ -4,6 +4,3 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NanDawg&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=NanDawg&include_all_commits=true&theme=github_dark)
-
-<br/><br/>
